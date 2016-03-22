@@ -133,10 +133,3 @@ function watch() {
   gulp.watch('src/assets/img/**/*', gulp.series(images, browser.reload));
   gulp.watch('src/styleguide/**', gulp.series(styleGuide, browser.reload));
 }
-
-// Deploy on GH Pages
-gulp.task('deploy', ['build'],
-  return gulp.src(PATHS.dist + '**/*')
-    .pipe(ghPages({
-      force: true
-    }));
