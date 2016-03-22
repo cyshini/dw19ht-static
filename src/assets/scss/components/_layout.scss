@@ -1,0 +1,24 @@
+.sidebar {
+  background: $white;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 120px;
+  min-height: 100%;
+  float: left;
+  @include breakpoint(small down) {
+    width: 100%;
+    min-height: 60px;
+  }
+  .logo {
+    margin: 0;
+  }
+}
+
+.content {
+  margin: 0 0 0 120px;
+  @include breakpoint(small down) {
+    margin: 60px 0 0 0;
+  }
+}

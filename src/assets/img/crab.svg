@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="480px" height="224px" viewBox="0 0 480 224" enable-background="new 0 0 480 224" xml:space="preserve">
+<g>
+	<rect y="32" fill="#E81E25" width="16" height="64"/>
+	<polygon fill="#E81E25" points="32,0 32,16 16,16 16,32 48,32 48,0 	"/>
+	<polygon fill="#F9C6C7" points="32,96 32,48 48,48 48,32 16,32 16,96 	"/>
+	<polygon fill="#F9C6C7" points="192,176 192,144 288,144 288,128 176,128 176,176 	"/>
+	<rect x="48" y="32" fill="#E81E25" width="16" height="32"/>
+	<rect x="64" y="64" fill="#E81E25" width="16" height="32"/>
+	<rect x="80" y="96" fill="#E81E25" width="16" height="16"/>
+	<rect x="96" y="96" fill="#F9C6C7" width="16" height="16"/>
+	<rect x="16" y="96" fill="#E81E25" width="16" height="32"/>
+	<polygon fill="#F59D9F" points="144,32 144,64 128,64 128,96 112,96 112,112 80,112 80,95.972 64,95.972 64,64 48,64 48,48 32,48 
+		32,128 48,128 64,128 64,143.972 80,143.972 80,144 112,144 112,128 144,128 144,96 160,96 160,64 160,32 	"/>
+	<rect x="32" y="128" fill="#E81E25" width="32" height="16"/>
+	<rect x="160" y="32" fill="#E81E25" width="16" height="64"/>
+	<rect x="128" y="176" fill="#E81E25" width="16" height="48"/>
+	<rect x="160" y="192" fill="#E81E25" width="16" height="32"/>
+	<rect x="288" y="192" fill="#E81E25" width="16" height="32"/>
+	<rect x="64" y="144" fill="#E81E25" width="48" height="16"/>
+	<polygon fill="#E81E25" points="144,0 144,16 160,16 160,32 128,32 128,0 	"/>
+	<rect x="112" y="32" fill="#E81E25" width="16" height="32"/>
+	<rect x="96" y="64" fill="#E81E25" width="16" height="32"/>
+	<rect x="128" y="32" fill="#F9C6C7" width="16" height="32"/>
+	<rect x="112" y="64" fill="#F9C6C7" width="16" height="32"/>
+	<rect x="144" y="96" fill="#E81E25" width="16" height="32"/>
+	<rect x="112" y="128" fill="#E81E25" width="32" height="16"/>
+	<rect x="304" y="32" fill="#E81E25" width="16" height="64"/>
+	<polygon fill="#E81E25" points="336,0 336,16 320,16 320,32 352,32 352,0 	"/>
+	<polygon fill="#F9C6C7" points="336,96 336,48 352,48 352,32 320,32 320,96 	"/>
+	<rect x="352" y="32" fill="#E81E25" width="16" height="32"/>
+	<rect x="368" y="64" fill="#E81E25" width="16" height="32"/>
+	<rect x="384" y="96" fill="#E81E25" width="16" height="16"/>
+	<rect x="400" y="96" fill="#F9C6C7" width="16" height="16"/>
+	<rect x="320" y="96" fill="#E81E25" width="16" height="32"/>
+	<polygon fill="#F59D9F" points="448,32 448,64 432,64 432,96 416,96 416,112 384,112 384,95.972 368,95.972 368,64 352,64 352,48 
+		336,48 336,128 352,128 368,128 368,143.972 384,143.972 384,144 416,144 416,128 448,128 448,96 464,96 464,64 464,32 	"/>
+	<rect x="336" y="128" fill="#E81E25" width="32" height="16"/>
+	<rect x="464" y="32" fill="#E81E25" width="16" height="64"/>
+	<rect x="368" y="144" fill="#E81E25" width="48" height="16"/>
+	<polygon fill="#E81E25" points="448,0 448,16 464,16 464,32 432,32 432,0 	"/>
+	<rect x="416" y="32" fill="#E81E25" width="16" height="32"/>
+	<rect x="400" y="64" fill="#E81E25" width="16" height="32"/>
+	<rect x="432" y="32" fill="#F9C6C7" width="16" height="32"/>
+	<rect x="416" y="64" fill="#F9C6C7" width="16" height="32"/>
+	<rect x="448" y="96" fill="#E81E25" width="16" height="32"/>
+	<rect x="416" y="128" fill="#E81E25" width="32" height="16"/>
+	<polygon fill="#E81E25" points="160,128 160,160 144,160 144,176 176,176 176,128 	"/>
+	<rect x="320" y="176" fill="#E81E25" width="16" height="48"/>
+	<polygon fill="#E81E25" points="304,128 304,160 320,160 320,176 288,176 288,128 	"/>
+	<polygon fill="#E81E25" points="176,176 176,192 192,192 192,224 208,224 208,192 224,192 224,224 240,224 240,192 256,192 
+		256,224 272,224 272,192 288,192 288,176 	"/>
+	<polygon fill="#E81E25" points="288,112 288,80 272,80 272,112 224,112 224,80 208,80 208,112 176,112 176,128 288,128 288,112 	
+		"/>
+	<rect x="192" y="144" fill="#F59D9F" width="96" height="32"/>
+	<rect x="192" y="48" width="32" height="32"/>
+	<rect x="256" y="48" width="32" height="32"/>
+</g>
+</svg>
