@@ -10,15 +10,25 @@
   @include breakpoint(small down) {
     width: 100%;
     min-height: 60px;
+    padding: 20px;
   }
   .logo {
     margin: 0;
   }
 }
 
+.hero {
+  position: relative;
+  margin: 0 0 1rem 0;
+  background-color: $primary-color;
+  padding: 5rem 3rem;
+  color: $white;
+  text-align: center;
+}
+
 .content {
   margin: 0 0 0 120px;
   @include breakpoint(small down) {
-    margin: 60px 0 0 0;
+    margin: 80px 0 0 0;
   }
 }

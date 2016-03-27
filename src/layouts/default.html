@@ -19,20 +19,25 @@
         </ul>
       </nav>
 
-      <div class="content">
+      <section class="content">
         {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
         {{> body}}
-      </div>
+      </section>
 
       <div class="full reveal text-center" id="modal-infos" data-reveal data-animation-in="slide-in-down" data-animation-out="fade-out">
-        <h2>About.</h2>
-        <p class="lead">Oh well, heil Hitler, bitch! And let me tell you something else. So what're you saying? Like, I shot someone with, like, a gun? We flipped a coin, okay? You and me. You and me! Coin flip is sacred! Your job is waiting for you in that basement, as per the coin! </p>
-        <div class="menu-centered">
-          <ul class="horizontal menu">
-            <li><a href="#">Facebook.</a></li>
-            <li><a href="#">Twitter.</a></li>
-            <li><a href="#">Tumblr.</a></li>
-          </ul>
+        <div class="row">
+          <div class="small-12 medium-8 large-6 small-centered columns">
+            <p><a href="#"><img src="{{root}}assets/img/crab.svg" width="42" height="20" class="logo" alt="Dw19ht"></a></p>
+            <h2>About.</h2>
+            <p class="lead">Oh well, heil Hitler, bitch! And let me tell you something else. So what're you saying? Like, I shot someone with, like, a gun? We flipped a coin, okay? You and me. You and me! Coin flip is sacred! Your job is waiting for you in that basement, as per the coin! </p>
+            <div class="menu-centered">
+              <ul class="horizontal menu">
+                <li><a href="#">Facebook.</a></li>
+                <li><a href="#">Twitter.</a></li>
+                <li><a href="#">Tumblr.</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
         <button class="close-button" data-close aria-label="Close reveal" type="button">
           <span aria-hidden="true">&times;</span>
@@ -40,6 +45,7 @@
       </div>
 
       <div class="full reveal text-center" id="modal-menu" data-reveal data-animation-in="slide-in-down" data-animation-out="fade-out">
+        <p><a href="#"><img src="{{root}}assets/img/crab.svg" width="42" height="20" class="logo" alt="Dw19ht"></a></p>
         <ul class="vertical menu">
           <li class="lead"><a href="#">Roadtrips.</a></li>
           <li class="lead"><a href="#">City guides.</a></li>
